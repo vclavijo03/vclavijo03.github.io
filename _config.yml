@@ -1,3 +1,14 @@
 title: Online Game Tournaments Website
 description: A platform for people to upload AIs for the game Battleship and have them compete against each other in tournaments.
-theme: minima
+theme: cayman
+url: https://vclavijo03.github.io/website
+# Optional settings
+author:
+  name: Victoria Clavijo
+  email: fclavijo@crimson.ua.edu
+# Optional: Set the base URL if your site is not at the root of the domain
+# baseurl: "" # Uncomment and set if needed
+# Optional: Set the permalink style
+permalink: pretty
+# Optional: Set the markdown processor
+markdown: kramdown
