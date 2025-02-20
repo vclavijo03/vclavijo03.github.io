@@ -11,7 +11,7 @@ The primary objective of the Battleship AI Arena project is to develop an engagi
 *   Feedback and Analysis: Offer battle logs and performance metrics to allow users to refine and improve their AI strategies.
 
 # Execution Example
-[ExampleUpload](./website/exampleupload.gif)
+![ExampleUpload](./website/exampleupload.gif)
 # Links to other pages
 - [Deliverables](./website/Deliverables.md)
   - Links to all deliverables for viewing/download, including presentations, readme, and source code
