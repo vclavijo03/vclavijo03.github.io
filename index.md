@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Online Game Tournaments Website
+description: Spring 2025 CS 495
 ---
 
 # Project Goals
