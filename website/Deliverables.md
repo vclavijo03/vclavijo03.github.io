@@ -17,6 +17,6 @@ description: All deliverables for the project
 [Download](https://github.com/BootheBoys/BattleshipTournament/archive/refs/heads/main.zip)
 # Readmes
 * [Readme](../README.md)
-* [Backend Readme](./assets/BackendReadme.md
+* [Backend Readme](./assets/BackendReadme.md)
 
 [back](./)
