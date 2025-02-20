@@ -1,3 +1,8 @@
+---
+layout: default
+title: Battleship Backend Readme
+description: Readme for the backend repo
+---
 # Battleship AI Backend
 
 ## Overview
